@@ -1,0 +1,44 @@
+/*backend - custom heading options*/
+.anps_heading_enable > div {
+    padding: 20px;
+}
+
+.anps_heading_enable .align-left {
+    float: left;
+
+}
+
+
+p {
+    line-height: 1.7em;
+    margin: 0 0 10px;
+}
+table.page-title td, .min300 td {
+    min-width: 300px;
+    padding-bottom: 10px;
+}
+
+.sbg_container label {
+	min-width: 300px;
+}
+
+.sbg_container label {
+    display: inline-block;
+    min-width: 300px;
+    margin-bottom: 10px;
+}
+.sbg_container select {
+	 margin-bottom: 10px;
+}
+
+.setting_text {
+    display: inline-block;
+    min-width: 300px;
+}
+
+.setting_input {
+    display: inline;
+}
+#slide_template {
+	min-width: 150px;
+}
